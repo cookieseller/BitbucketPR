@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.cookieseller.bitbucketpr.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.cookieseller.bitbucketpr.MyBundle
 
 class MyApplicationService {
 
